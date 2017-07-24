@@ -1,5 +1,4 @@
 require "mechanize"
-require "pry"
 
 class ExpansionIdScraper
   DEFAULT_EXPANSION_URL = 'http://ws-tcg.com/en/jsp/cardlist/'
